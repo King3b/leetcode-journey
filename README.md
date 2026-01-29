@@ -1,2 +1,2 @@
 # leetcode-journey
-a journey of leetcode adventure
+a journey of my  leetcode adventure with all projects i have solved (A = ai assisted , P = no assitance)
